@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BaseExplosion
       objectReference: {fileID: 0}
+    - target: {fileID: 321790027799501418, guid: be8a96f2516bebd429322c07435d69ed,
+        type: 3}
+      propertyPath: ClampVelocityModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 321790027799501419, guid: be8a96f2516bebd429322c07435d69ed,
         type: 3}
       propertyPath: m_LocalPosition.x
